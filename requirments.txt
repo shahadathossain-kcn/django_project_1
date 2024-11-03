@@ -13,7 +13,7 @@ contourpy==1.2.1
 crispy-bootstrap4==2024.10
 cycler==0.12.1
 distlib==0.3.8
-Django==5.1
+Django==4.2
 django-crispy-forms==2.3
 dnspython==2.7.0
 email_validator==2.2.0
